@@ -4,7 +4,7 @@
  * @version 1.0
  * @date 10 December 2019
  *
- * @brief This file implements example functions to use with the red-black tree.
+ * @brief This file implements example functions to use with the red-black tree library.
  */
 
 #include <stdlib.h>

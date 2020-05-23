@@ -4,7 +4,7 @@
  * @version 1.0
  * @date 10 December 2019
  *
- * @brief This file implements a generic red-black tree library.
+ * @brief implementation file for generic red-black tree library.
  */
 
 #ifndef RBTREE_RBTREE_H
