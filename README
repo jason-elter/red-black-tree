@@ -1,0 +1,11 @@
+Written by Jason Elter 2020.
+
+
+FILES:
+RBTree.h -- Header file for a generic red-black tree library.
+RBTree.c -- This file implements a generic red-black tree library.
+Structs.h -- Header file for example functions to use with the red-black tree.
+Structs.c -- This file implements example functions to use with the red-black tree.
+ProductExample.c -- Tests for the library.
+Makefile -- Makefile for compiling.
+README -- you're reading it right now!
